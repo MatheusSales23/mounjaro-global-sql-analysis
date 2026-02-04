@@ -1,0 +1,2 @@
+-- 02_data_load.sql
+-- Script para carga de dados (CSV/INSERT) e normalização
