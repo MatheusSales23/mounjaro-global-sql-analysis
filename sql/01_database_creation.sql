@@ -1,0 +1,2 @@
+-- 01_database_creation.sql
+-- Script para criar o banco, tabelas e chaves (SQL Server)
