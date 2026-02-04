@@ -1,0 +1,2 @@
+-- 03_analysis_queries.sql
+-- Queries de análise (demanda, capacidade, receita, rankings)
